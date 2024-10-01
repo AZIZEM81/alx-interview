@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 """
+<<<<<<< HEAD
 Module for generating Pascal's Triangle
+=======
+Module generating Pascal's Triangle
+>>>>>>> 8c3b71e274935e08c46fed782fafe04956e8a5e0
 """
 
 from typing import List
